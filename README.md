@@ -58,5 +58,5 @@ Using Tiyaro, developers can instantly search, compare and use the world's best 
 ## Blogs
 - https://www.tiyaro.ai/blog/stable-diffusion/
 
-## tags
+## Usecases
 diffusion, text-to-image, image generation, ai art generation, image inpainting, Text Guided Inpainting, photo-realistic, stable diffusion online
